@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 AANGEPAST IN MASTER MASTER
 aangepast en added
+=======
+AANGEPAST IN DEVELOP
+>>>>>>> develop
